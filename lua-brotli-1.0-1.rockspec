@@ -1,16 +1,8 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "lua-brotli"
   version = "1.0-1"
--- LuaDist source
-source = {
-  tag = "1.0-1",
-  url = "git://github.com/LuaDist-testing/lua-brotli.git"
-}
--- Original source
---   source = {
---     url = "git://github.com/witchu/lua-brotli"
---   }
+  source = {
+    url = "git://github.com/witchu/lua-brotli"
+  }
   description = {
     summary = "Google brotli binding for Lua.",
     detailed = [[
